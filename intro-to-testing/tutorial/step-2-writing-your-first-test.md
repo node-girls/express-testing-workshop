@@ -6,6 +6,10 @@ A few things before we get stuck in, Jest has 3 words that you can use:
 - `it` : lets you run a test. We need this in every test!
 - `expect` : lets you write assertions. The tests pass if the assertions pass.
 
+
+NB: An **assertion** is the validation step in testing. It is the step that compares your actual results with the expected outcome. For a test to pass, the actual results and the expected outcome need to be equal, meaning your assertion is true.
+
+
 Dont' worry this will all make sense when we start writing some tests.
 
 In your `server.test.js` file we can write an example of a failing test. Go ahead and write the following in your `server.test.js` file:
