@@ -1,4 +1,4 @@
-# Express Workshop - Testing Your Endpoints
+# Express Testing Workshop
 
 ### What?
 You've probably finished the Node workshop and are now wondering how to test your endpoints. Firstly, well done on completing the workshop! Secondly, kudos for wanting to test those new endpoints you've built.
